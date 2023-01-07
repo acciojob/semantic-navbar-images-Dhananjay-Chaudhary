@@ -1,2 +1,21 @@
+ul{
+	float:left;
+	list-style-type:none;
+}
+ul a{
+	margin:auto;
+	text-decoration:none;
+	color:white
+}
+
+h1{
+	color:greenyellow;
+}
+
+ima{
+	margin:auto;
+	
+}
+
 
 /* Your CSS Code here. */
