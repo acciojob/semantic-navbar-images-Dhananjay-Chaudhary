@@ -1,2 +1,8 @@
+nav{
+	border:2px solid black;
+	padding:5px;
+}
 
-/* Your CSS Code here. */
+ul a{
+	text-decoration:none;
+}
