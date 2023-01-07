@@ -1,8 +1,8 @@
-ul{
+nav ul{
 	float:left;
 	list-style-type:none;
 }
-ul a{
+nav ul a{
 	margin:2px;
 	text-decoration:none;
 	color:white
