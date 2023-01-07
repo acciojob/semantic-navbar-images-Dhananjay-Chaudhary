@@ -1,29 +1,2 @@
-nav{
-	width:100%;
-	background-color:black;
-	padding:2px;
-}
-nav ul{
-	margin-left:2px;
-	list-style-type:none;
-}
-nav ul a{
-	margin:2px;
-	padding:5px;
-	text-decoration:none;
-	color:white;
-}
-
-h1{
-	color:greenyellow;
-}
-
-ima{
-	margin:auto;
-	
-}
-
-
-
 
 /* Your CSS Code here. */
