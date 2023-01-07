@@ -1,14 +1,15 @@
 nav{
 	width:100%;
 	background-color:black;
+	padding:2px;
 }
 nav ul{
-	margin:auto;
-	float:left;
+	margin-left:2px;
 	list-style-type:none;
 }
 nav ul a{
 	margin:2px;
+	padding:5px;
 	text-decoration:none;
 	color:white;
 }
@@ -20,6 +21,11 @@ h1{
 ima{
 	margin:auto;
 	
+}
+
+a:hover{
+	color:#04aad6;
+	background-color:white;
 }
 
 
